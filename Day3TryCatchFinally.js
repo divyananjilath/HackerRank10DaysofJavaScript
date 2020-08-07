@@ -40,4 +40,8 @@ function reverseString(s) {
             console.log(s);
         }
 }
-
+function main() {
+    const s = eval(readLine());
+    
+    reverseString(s);
+}
