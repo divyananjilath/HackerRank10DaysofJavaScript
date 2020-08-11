@@ -1,1 +1,1 @@
-Solutions to #HackerRank10DaysofJavaScript
+Solutions to HackerRank 10 Days of JavaScript
